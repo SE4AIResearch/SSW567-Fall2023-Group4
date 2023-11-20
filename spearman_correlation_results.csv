@@ -1,0 +1,10 @@
+Column_File1,Column_File2,Spearman_Correlation,P_value,Significance
+#reviewers,#reviewers,0.08512083065138155,0.0035144371150930254,Significant
+#messages,#messages,0.185705519890394,1.435948822307521e-10,Significant
+#inline_comments,#inline_comments,-0.01837557910385797,0.5293507397694694,Not Significant
+#revisions,#revisions,0.13516361320882295,3.3579877814770963e-06,Significant
+#files,#files,-0.03782992502039313,0.19522522871326897,Not Significant
+duration,duration,-0.05608787504313038,0.054701144215713524,Not Significant
+len_messages,len_messages,0.13601871899874862,2.9068975733631337e-06,Significant
+len_description,len_description,0.010775514198578022,0.7122572658288885,Not Significant
+churn,churn,0.017533337301406503,0.5483976828965067,Not Significant

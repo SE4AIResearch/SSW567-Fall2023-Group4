@@ -3,12 +3,12 @@ import numpy as np
 from scipy.stats import mannwhitneyu
 
 # Load data from the first CSV file
-file1 = pd.read_csv('C:/Users/Dell/Desktop/SoftwareTesting_QualityAssurance_&_Maintainence/Project/refactoring_data.csv')
+file1 = pd.read_csv('C:/Users/Dell/Desktop/SoftwareTesting_QualityAssurance_&_Maintainence/Project/Refactoring_data_SQL_result.csv')
 
 # Load data from the second CSV file
 file2 = pd.read_csv('C:/Users/Dell/Desktop/SoftwareTesting_QualityAssurance_&_Maintainence/Project/stratified_nonrefactor_sampled_data.csv')
 
-# Specify the three columns from each file
+# Specify the all columns which are needed for test from each file
 columns_file1 = ['#reviewers','#messages','#inline_comments','#revisions','#files','duration','len_messages','len_description','churn']
 columns_file2 = ['#reviewers','#messages','#inline_comments','#revisions','#files','duration','len_messages','len_description','churn']
 
