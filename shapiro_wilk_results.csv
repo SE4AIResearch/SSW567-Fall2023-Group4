@@ -1,0 +1,10 @@
+Column,Refactored_Test_Statistic,Refactored_P_Value,Refactored_Normality,NonRefactored_Test_Statistic,NonRefactored_P_Value,NonRefactored_Normality
+#reviewers,0.9255183935165405,1.1466199753609611e-23,Not Normally Distributed,0.8274660110473633,9.322817227367753e-34,Not Normally Distributed
+#messages,0.6786148548126221,1.9029633145531016e-42,Not Normally Distributed,0.9159705638885498,5.3306896030999235e-25,Not Normally Distributed
+#inline_comments,0.3255717158317566,0.0,Not Normally Distributed,0.228407084941864,0.0,Not Normally Distributed
+#revisions,0.6480777263641357,8.407790785948902e-44,Not Normally Distributed,0.8179111480712891,1.8097426593017705e-34,Not Normally Distributed
+#files,0.13054108619689941,0.0,Not Normally Distributed,0.06133943796157837,0.0,Not Normally Distributed
+duration,0.27385634183883667,0.0,Not Normally Distributed,0.5400183200836182,0.0,Not Normally Distributed
+len_messages,0.12951737642288208,0.0,Not Normally Distributed,0.48158586025238037,0.0,Not Normally Distributed
+len_description,0.611710250377655,2.802596928649634e-45,Not Normally Distributed,0.652089536190033,1.2471556332490872e-43,Not Normally Distributed
+churn,0.1461673378944397,0.0,Not Normally Distributed,0.07710164785385132,0.0,Not Normally Distributed
